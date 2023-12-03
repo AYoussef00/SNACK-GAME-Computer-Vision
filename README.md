@@ -5,6 +5,7 @@ Snake Game with Hand Tracking using Computer Vision
 
 
 Overview
+
 This repository contains a snake game that is played using hand gestures captured through a camera. The game utilizes computer vision techniques to track hand movements, enabling users to control the snake's direction and interact with the game environment.
 
 Features
