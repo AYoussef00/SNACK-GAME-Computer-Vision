@@ -17,30 +17,31 @@ Score System: Users earn points by capturing food items with the snake, and the 
 Game Over Handling: The game includes a robust game-over mechanism. Upon collision with the snake's own body, a clear "Game Over" message is displayed, along with the user's final score.
 
 Getting Started
+
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/<your-username>/snake-game-hand-tracking.git
-cd snake-game-hand-tracking
+- git clone https://github.com/<your-username>/snake-game-hand-tracking.git
+- cd snake-game-hand-tracking
+
 Install dependencies:
 
-bash
-Copy code
-pip install -r requirements.txt
+- pip install -r requirements.txt
+
 Run the game:
 
-bash
-Copy code
 python snake_game.py
+
 Requirements
 Python 3.x
 OpenCV
 cvzone
 Usage
+
 Launch the game and use your hand gestures in front of the camera to control the snake.
 Capture food items to increase your score.
+
 Press 'r' to restart the game after a game over.
+
 Contributing
 Contributions are welcome! Feel free to open issues or pull requests for bug fixes, improvements, or new features.
 
